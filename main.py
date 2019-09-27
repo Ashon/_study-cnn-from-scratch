@@ -44,6 +44,7 @@ label_test = MNISTLabels('files/t10k-labels-idx1-ubyte')
 # print(padded_pixels)
 # image_train.print_pixels(padded_pixels)
 
+# number of convolution layers per sample
 n_conv = 1
 
 batch_size = 20
